@@ -57,13 +57,6 @@ Total Compensation = 'Employee'[Salary] + 'Employee'[Bonus Amount]
 - **Regulatory Compliance** with the $90,000 salary threshold
 - **Bonus Distribution** by Region and Employee Level
 
-### Charts Used
-
-- Stacked Bar Charts
-- Matrix Tables
-- Histograms (Salary Bands)
-- KPI Cards (Total Salary, Bonus, Compensation)
-
 ## How to Use
 
 1. Clone or download this repository
@@ -90,3 +83,7 @@ The Power BI dashboard enabled Palmoria Group to:
 - **DAX** for custom metrics and calculations
 - **Data Modeling** to structure relationships and KPIs
 - **HR Analytics** to derive actionable insights from employee data
+
+
+## Author [Samuel Adebiyi Ibukun]
+   [Sarmsarhmzy@github.com/Sarm10]
