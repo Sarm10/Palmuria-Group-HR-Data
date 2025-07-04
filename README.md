@@ -43,7 +43,7 @@ Palmoria Group faced public scrutiny over gender inequality. The CEO commissione
 ### 3. Data Modeling (Power BI Model View)
 - Established a **one-to-many** relationship between:
 ### 4. DAX Measures
-```DAX
+DAX
 Bonus Amount = RELATED('Bonus Rules'[Bonus Rate]) * 'Employee'[Salary]
 
 Total Compensation = 'Employee'[Salary] + 'Employee'[Bonus Amount]
@@ -63,8 +63,6 @@ Total Compensation = 'Employee'[Salary] + 'Employee'[Bonus Amount]
 - Matrix Tables
 - Histograms (Salary Bands)
 - KPI Cards (Total Salary, Bonus, Compensation)
-
----
 
 ## How to Use
 
