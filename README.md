@@ -1,4 +1,4 @@
-# # Palmoria Group HR Analytics - Power BI Case Study
+## Palmoria Group HR Analytics - Power BI Case Study
 
 This repository documents an end-to-end HR data analysis and dashboard project for the Palmoria Group, a Nigerian-based manufacturing company, aimed at uncovering and addressing gender-related issues in the organization using **Power BI**.
 
@@ -75,5 +75,5 @@ The Power BI dashboard enabled Palmoria Group to:
 - **HR Analytics** to derive actionable insights from employee data
 
 
-## Author [Samuel Adebiyi Ibukun]
+### Author [Samuel Adebiyi Ibukun]
    [Sarmsarhmzy@gmail.com, github.com/Sarm10]
