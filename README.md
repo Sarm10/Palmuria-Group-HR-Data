@@ -76,4 +76,4 @@ The Power BI dashboard enabled Palmoria Group to:
 
 
 ## Author [Samuel Adebiyi Ibukun]
-   [Sarmsarhmzy@github.com/Sarm10]
+   [Sarmsarhmzy@gmail.com, github.com/Sarm10]
