@@ -1,8 +1,8 @@
-# # 🧠 Palmoria Group HR Analytics - Power BI Case Study
+# # Palmoria Group HR Analytics - Power BI Case Study
 
 This repository documents an end-to-end HR data analysis and dashboard project for the Palmoria Group, a Nigerian-based manufacturing company, aimed at uncovering and addressing gender-related issues in the organization using **Power BI**.
 
-## 📌 Project Objective
+## Project Objective
 
 Palmoria Group faced public scrutiny over gender inequality. The CEO commissioned a data-driven HR analysis to:
 - Identify gender distribution issues
@@ -10,7 +10,7 @@ Palmoria Group faced public scrutiny over gender inequality. The CEO commissione
 - Check compliance with labor regulations
 - Allocate annual performance bonuses
 
-## 📂 Datasets Used
+## Datasets Used
 
 1. `Palmoria Group emp-data.csv`  
    Employee-level dataset containing information on:
@@ -25,7 +25,7 @@ Palmoria Group faced public scrutiny over gender inequality. The CEO commissione
 
 ---
 
-## 🔧 Project Steps
+## Project Steps
 
 ### 1. Data Cleaning (Power Query)
 - Removed:
